@@ -1,0 +1,7 @@
+E:\Data\Dev\VisualStudio\WeakSum\WeakSum\bin\Debug\WeakSum.exe.config
+E:\Data\Dev\VisualStudio\WeakSum\WeakSum\bin\Debug\WeakSum.exe
+E:\Data\Dev\VisualStudio\WeakSum\WeakSum\bin\Debug\WeakSum.pdb
+E:\Data\Dev\VisualStudio\WeakSum\WeakSum\obj\Debug\WeakSum.csprojAssemblyReference.cache
+E:\Data\Dev\VisualStudio\WeakSum\WeakSum\obj\Debug\WeakSum.csproj.CoreCompileInputs.cache
+E:\Data\Dev\VisualStudio\WeakSum\WeakSum\obj\Debug\WeakSum.exe
+E:\Data\Dev\VisualStudio\WeakSum\WeakSum\obj\Debug\WeakSum.pdb
